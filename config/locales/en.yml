@@ -1,2 +1,4 @@
 en:
-  # my_label: "My label"
+  project_menu_approvals: Approvals
+  project_module_approve_docs: Approvals
+  permission_manipulate_approvals: Manipulate approvals

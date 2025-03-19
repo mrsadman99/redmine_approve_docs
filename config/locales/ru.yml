@@ -1,2 +1,4 @@
 ru:
-  # my_label: "My label"
+  project_menu_approvals: Согласования
+  project_module_approve_docs: Согласования
+  permission_manipulate_approvals: Взаимодействие с согласованиями
